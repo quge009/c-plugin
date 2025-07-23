@@ -1,2 +1,2 @@
 # c-plugin
-plugin for ltp
+plugin platform
